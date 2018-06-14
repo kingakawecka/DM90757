@@ -1,0 +1,36 @@
+7 czerwca nie ma zajêæ z Eksploracji danych.
+Projekt wybraæ rzeczywiste dane œci¹gniête z sieci i przeanalizowaæ je i przemodelowaæ na ró¿ne sposoby i pokazaæ jaki wynik uzyskaliœmy najlepszy. To jakie sposoby wybierzemy do regresji czy czegoœ tam innego to zale¿y od nas.
+Im wiêcej danych tym lepiej. Nie powinny to byæ dane na dwie kolumny i po 10 przyk³adów.
+Zweryfikowaæ ka¿d¹ zmienn¹, znaleŸæ rozk³ad.
+
+Robimy to w dwuosobowych grupach.
+Wynikiem ma byæ raport w pdfie wypisuj¹cy jakie mamy zmienne, pokazujemy jak za³adowaliœmy dane, jak¹ mamy sstrukturê danych. w jupiterze u¿ywaj¹c notedowna i generuj¹c kody.
+
+AutoML
+ABT Analiza danych
+Algorytm Deepfish
+Polecenia GitHuba:
+	https://gist.github.com/chajr/3ef7dca264e19c045800fba379d6058a
+
+1.
+stworzyæ jupiter notatnik
+i zrobic wszystkie 5 punktów o titanicu
+na pierwszy tydzien czerwca
+zrealizowac ca³y ten tutorial 5 punktowy w pythonie.
+
+2.
+otrzymamy plik z danymi, plik abt
+bêdzie zawiera³ on dane i przetworzone kolumny
+do drugiego tygdnia czerwca
+bêd¹ tam kolumny " default12 "
+te kolumny oznaczaj¹, ¿e klient nie sp³aca kredytu d³u¿ej ni¿ 90 dni, ni¿ trzy miesi¹ce, nie sp³aca³ on kredytu.
+konkretne dane
+oko³o 200 zmiennych
+i oko³o 20 000 wierszy do analizy
+Sprawdziæ czy klient jest w default12 czy nie jest.
+bardzo Przeanalizowaæ zmienne
+nie wszystkie bêda siê nadawaæ do analizy, czêœæ trzeba bêdzie usun¹æ.
+liczymy model
+czas liczenia tego modelu powinien byæ sensowny, i powinno dawac jakieœ wartoœci
+te inne defaulty usun¹æ mo¿na, np. default6
+rozwi¹zanie na githuba wrzuciæ
